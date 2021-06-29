@@ -87,15 +87,7 @@
   _gaq.push(['_trackPageview']);
 
 
-  var x = document.getElementById("myAudio");
-
-	function playAudio() {
-	  x.play();
-	}
-
-	function pauseAudio() {
-	  x.pause();
-	}
+ 
 
 </script>
 </html>
